@@ -1,0 +1,87 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+html,body{
+  height: 100%;
+}
+
+.shuiping{
+   display:table-cell;
+}
+.page-header{
+ padding-top: 20px;
+  padding-right: 50px;
+  padding-left: 50px;
+ 
+}
+.two{
+  float:left;
+}
+.three{
+  float: right;
+}
+
+.page-header nav a{ 
+ 
+  font-size: 13px;
+  font-weight: 700;
+  color:#FFFFFF;
+  margin-left: 20px;
+  text-decoration: none;
+
+}
+
+.page-container{
+  
+  
+}
+
+.page-video-bg{
+  height: 100%;
+}
+
+.page-video-bg video {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.shenghuo{
+  clear: both;
+  padding-right: 40px;
+  padding-top: 150px;
+  float: right;
+}
+.shenghuo img{
+  width:280px;
+  height: 60px;
+}
+.imge{
+  clear: both;
+  float: right;
+  padding-right: 40px;
+  padding-top: 20px;
+}
+.imge img{ 
+  width: 80px;
+  height: 40px;
+  margin: 4px 
+}
+
+.page-content{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  color: #fff;
+}
+.page-footer{
+  padding-top: 400px;
+}
+
+.footers{
+   text-align:center;
+}
